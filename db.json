@@ -1,0 +1,155 @@
+{
+  "seller": [
+    {
+      "Username": "Poornima",
+      "Password": "Kanchugodu",
+      "Email": "poorni@gmail.com",
+      "id": 1
+    },
+    {
+      "Username": "Nishitha",
+      "Password": "Gangolli",
+      "Email": "nishu@gmail.com",
+      "id": 2
+    },
+    {
+      "Username": "Bhagi",
+      "Password": "Bangdi",
+      "Email": "bhangi@gmail.com",
+      "id": 3
+    },
+    {
+      "Username": "",
+      "Password": "",
+      "Email": "",
+      "id": 4
+    },
+    {
+      "Username": "",
+      "Password": "",
+      "Email": "",
+      "id": 5
+    },
+    {
+      "Username": "",
+      "Password": "",
+      "Email": "",
+      "id": 6
+    },
+    {
+      "Username": "Mamatha",
+      "Password": "Arkati",
+      "Email": "mamatha@gmail.com",
+      "id": 7
+    },
+    {
+      "Username": "",
+      "Password": "",
+      "Email": "",
+      "id": 8
+    },
+    {
+      "Username": "",
+      "Password": "",
+      "Email": "",
+      "id": 9
+    },
+    {
+      "Username": "Nik",
+      "Password": "",
+      "Email": "",
+      "id": 10
+    }
+  ],
+  "Products": [
+    {
+      "productname": "Realme",
+      "productprice": "30000",
+      "productcolor": "Red",
+      "productcategory": "Mobile",
+      "productdescription": "Realme Product",
+      "productimageurl": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/b/o/n/-original-imagg3myvj6f3pez.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "productname": "Running Shoes",
+      "productprice": "500",
+      "productcolor": "Black",
+      "productcategory": "Shoes",
+      "productdescription": "Trendy Sports Running Running Shoes For Men",
+      "productimageurl": "https://rukminim1.flixcart.com/image/612/612/l4bn5ow0/shoe/q/f/8/6-rng-2021-blu-orng-40-bruton-blue-orange-original-imagf94gmk7nkayf.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productname": "Bluetooth Neckband ",
+      "productprice": "500",
+      "productcolor": "Black",
+      "productcategory": "Neckband",
+      "productdescription": "Aroma NB120 Tehalka - 28 Hours Playtime Bluetooth Neckband Bluetooth Headset ",
+      "productimageurl": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/i/t/d/nb120-tehalka-28-hours-playtime-neckband-aroma-original-imaggj3fhz94evrj.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "productname": "Dell Laptop",
+      "productprice": "50000",
+      "productcolor": "Gray",
+      "productcategory": "Laptop",
+      "productdescription": "DELL Vostro Core i3 11th Gen ",
+      "productimageurl": "https://rukminim1.flixcart.com/image/312/312/kzygpzk0/computer/u/n/j/vostro-3400-thin-and-light-laptop-dell-original-imagbuusnyzeqsjh.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "productname": "iphone 14",
+      "productprice": "100000",
+      "productcolor": "Black",
+      "productcategory": "Mobile",
+      "productdescription": "APPLE iPhone 14 (Midnight, 128 GB)",
+      "productimageurl": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/9/e/e/-original-imaghx9q5rvcdghy.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "productname": "Women  Dress",
+      "productprice": "1000",
+      "productcolor": "Maroon",
+      "productcategory": "Dress",
+      "productdescription": "Women Bodycon Brown Dress",
+      "productimageurl": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/m/w/7/m-aa-0163-brown-smoking-dress-aayu-original-imaggdfadqe76tt2.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "productname": "Boys  Shirt",
+      "productprice": "700",
+      "productcolor": "Yellow",
+      "productcategory": "Dress",
+      "productdescription": "Boys Regular Fit Striped Party Shirt",
+      "productimageurl": "https://rukminim1.flixcart.com/image/612/612/l4bn5ow0/shirt/l/g/2/7-8-years-ks-1290-ruyam-original-imagf8whaagkevn6.jpeg?q=70",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "Username": "Kavya",
+      "Password": "bangera",
+      "Email": "kavya@gmail.com",
+      "id": 1
+    },
+    {
+      "Username": "Akash",
+      "Password": "sky",
+      "Email": "akash@gmail.com",
+      "id": 2
+    },
+    {
+      "Username": "Nikhi",
+      "Password": "kanchugodu",
+      "Email": "nikhi@gmail.com",
+      "id": 3
+    },
+    {
+      "Username": "Asha",
+      "Password": "bhatkal",
+      "Email": "asha@gmail.com",
+      "id": 4
+    }
+  ]
+}

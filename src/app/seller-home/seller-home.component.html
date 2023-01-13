@@ -1,0 +1,33 @@
+<div>
+    <p>{{deleteMessage}}</p>
+</div>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Category</th>
+                <th>Description</th>
+                <th>Color</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of productlist">
+                <td><img src="{{item.productimageurl}}" /></td>
+                <td>{{item.productname}}</td>
+                <td>{{item.productprice}}</td>
+                <td>{{item.productcategory}}</td>
+                <td>{{item.productdescription}}</td>
+                <td>{{item.productcolor}}</td>
+                <td><fa-icon [icon]="coffeeIcon" (click)="productDelete(item.id)"></fa-icon>
+                    <a routerLink="/seller-update-product/{{item.id}}" class="setEditIcon"><fa-icon
+                            [icon]="editIcon"></fa-icon></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<!--  -->

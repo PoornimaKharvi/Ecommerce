@@ -1,0 +1,12 @@
+<div>
+    <div>
+        <form class="common-form" #usersignup="ngForm" (ngSubmit)="userSignup(usersignup.value)">
+            <h1>User Sign Up</h1>
+            <input type="text" placeholder="Enter Username" ngModel name="Username" class="from-input">
+            <input type="text" placeholder="Enter Password" ngModel name="Password" class="from-input">
+            <input type="text" placeholder="Enter Email" ngModel name="Email" class="from-input">
+            <button class="from-button">Sign Up</button>
+            <a>Already have account!Click Login</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,83 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 8%;
+    margin-left: 5%;
+}
+
+nav h1 {
+    color: blueviolet;
+}
+
+.ulstyle {
+    display: inline-flex;
+    list-style: none;
+}
+
+nav li {
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+nav li a {
+    color: blueviolet;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.divinputbutton {
+    margin-top: 10px;
+    margin-left: 4%;
+    display: flex;
+    flex: 1;
+    margin-right: 4%;
+}
+
+.divlist {
+    margin-top: 8px;
+    margin-left: 0%;
+    display: flex;
+    flex: 1;
+    margin-right: -31%;
+}
+
+h1 a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+div input {
+    flex: 1;
+    height: 38px;
+    border: 3px solid blueviolet;
+    border-right: 0px;
+}
+
+div button {
+    height: 38px;
+    border: 3px solid blueviolet;
+    border-left: 0px;
+    cursor: pointer;
+}
+
+.suggestedResult {
+    position: absolute;
+    display: list-item;
+    z-index: 10;
+    background-color: white;
+    width: 300px;
+    top: 48px;
+    margin-left: -30px;
+    list-style: none;
+}
+
+.suggestedResult li {
+    border: 1px solid burlywood;
+    padding: 5px;
+}
+
+.suggestedResult li a {
+    cursor: pointer;
+    color: blueviolet;
+}
